@@ -33,8 +33,8 @@ These limitations are reported deliberately: the goal of this audit was to stres
 
 ```
 Code/
-├── run_probes.ipynb   # Prompt generation (attacker model) + model probing pipeline
-└── NLP_Analysis.ipynb                      # Scoring, aggregation, and visualization
+├── Run_probes.ipynb   # Prompt generation (attacker model) + model probing pipeline
+└── Result_Analysis.ipynb                      # Scoring, aggregation, and visualization
 
 Annotations/
 ├── Chile/      Colombia/      Etiopia/      Germany/
