@@ -41,9 +41,6 @@ Annotations/
 ├── Hungary/    Italy/         Jordan/       Macedonia/
 └── (each folder: probe_set_XX.xlsx — scenario/attack prompts + native-speaker scoring)
 
-Figures/
-└── ASR, NSR, and CSR breakdowns by country and category, for both models
-
 Written_Report.pdf      # Full methodology, results, and discussion
 
 ```
